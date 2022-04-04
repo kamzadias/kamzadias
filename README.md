@@ -2,6 +2,7 @@
 
 
 ## I'm Software Engineer 
+A second-year student of the faculty of Information Technology, a future software engineer. My passion for programming led me to Astana IT University, where I am working on obtaining a bachelor's degree in information technology.
 
 ## Technical skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
