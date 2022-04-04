@@ -2,7 +2,7 @@
 
 
 ## I'm Software Engineer 
-A second-year student of the faculty of Information Technology, a future software engineer. My passion for programming led me to Astana IT University, where I am working on obtaining a bachelor's degree in information technology.
+A second-year student of Astana IT University with a degree in software engineering. At the moment I am looking for an internship or a job as a developer, in a company where I can expand my knowledge in the field of frontend and backend, which will be used both to improve the workflow and to increase the efficiency of the organization
 
 ## Technical skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
