@@ -1,5 +1,4 @@
-[![Header](![image](![image](https://user-images.githubusercontent.com/68639981/161507907-74c6008f-4df4-431a-9d1a-73959ab75fae.png)
-)(https://www.instagram.com/kamzadias/)
+[![Header](![image](https://user-images.githubusercontent.com/68639981/161508163-fc9460a8-8447-4215-8293-2e55a8102b7f.png))](https://www.instagram.com/kamzadias/)
 
 ## I'm Software Engineer 
 
@@ -14,5 +13,5 @@
 ![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=postgresql&logoColor=47C5FB)
 
 ## Follow me
-![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007886)
+![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)(https://www.instagram.com/kamzadias/)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007886)(https://www.linkedin.com/in/dias-kamza/)
