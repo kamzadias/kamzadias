@@ -1,4 +1,4 @@
-[![Header](![image](https://user-images.githubusercontent.com/68639981/161508163-fc9460a8-8447-4215-8293-2e55a8102b7f.png))](https://www.instagram.com/kamzadias/)
+[![Header](![image](https://resumespice.com/wp-content/uploads/2021/03/1.png))](https://www.instagram.com/kamzadias/)
 
 ## I'm Software Engineer 
 
