@@ -2,7 +2,11 @@
 
 
 ## I'm Software Engineer 
-A second-year student of Astana IT University with a degree in software engineering. At the moment I am looking for an internship or a job as a developer, in a company where I can expand my knowledge in the field of frontend and backend, which will be used both to improve the workflow and to increase the efficiency of the organization
+Welcome to my GitHub account!
+
+As a junior software engineer, I'm excited to showcase my coding projects and contributions to the development community. My goal is to learn and grow as a developer, and I believe that GitHub is the perfect platform for me to achieve that.
+On this page, you will find a collection of my personal and professional coding projects, including web applications, scripts, and utilities. These projects demonstrate my skills in various programming languages such as Python, Java, JavaScript, etc.
+Please feel free to explore my projects and don't hesitate to reach out if you have any questions or comments.
 
 ## Technical skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
