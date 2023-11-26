@@ -4,13 +4,6 @@
 ## I'm Software Engineer 
 Welcome to my GitHub account!
 
-As a junior software engineer, I'm excited to showcase my coding projects and contributions to the development community. My goal is to learn and grow as a developer, and I believe that GitHub is the perfect platform for me to achieve that.
-
-On this page, you will find a collection of my personal and professional coding projects, including web applications, scripts, and utilities. These projects demonstrate my skills in various programming languages such as Python, Java, JavaScript, etc.
-
-Please feel free to explore my projects and don't hesitate to reach out if you have any questions or comments.
-
-## Technical skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
